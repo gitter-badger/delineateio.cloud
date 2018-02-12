@@ -1,5 +1,7 @@
 # Cloud Utilities 
 
+[![Join the chat at https://gitter.im/delineateio/cloud](https://badges.gitter.im/delineateio/cloud.svg)](https://gitter.im/delineateio/cloud?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Digital Ocean Clean
 
 Script written in Python3 for destroying a Digital Ocean cloud deployment where the resources contain the Git branch short name.  This enables faster clean up of trial environments rather than using the UI.
